@@ -1,0 +1,58 @@
+{
+    "Coke": {
+        "validity": "29/03/2006",
+        "used-str": "half",
+        "used-number": 2,
+        "position-str": "middle",
+        "position-number": 2,
+        "amt": 2
+    },
+    "Milk": {
+        "validity": "15/08/2024",
+        "used-str": "full",
+        "used-number": 1,
+        "position-str": "top",
+        "position-number": 1,
+        "amt": 1
+    },
+    "Cheese": {
+        "validity": "22/07/2024",
+        "used-str": "half",
+        "used-number": 2,
+        "position-str": "middle",
+        "position-number": 2,
+        "amt": 2
+    },
+    "Butter": {
+        "validity": "30/09/2024",
+        "used-str": "little",
+        "used-number": 3,
+        "position-str": "door",
+        "position-number": 4,
+        "amt": 1
+    },
+    "Yogurt": {
+        "validity": "10/07/2024",
+        "used-str": "full",
+        "used-number": 1,
+        "position-str": "down",
+        "position-number": 3,
+        "amt": 4
+    },
+    "Juice": {
+        "validity": "05/08/2024",
+        "used-str": "half",
+        "used-number": 2,
+        "position-str": "top",
+        "position-number": 1,
+        "amt": 3
+    },
+    "Eggs": {
+        "validity": "12/07/2024",
+        "used-str": "little",
+        "used-number": 3,
+        "position-str": "middle",
+        "position-number": 2,
+        "amt": 12
+    }
+}
